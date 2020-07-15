@@ -1,0 +1,23 @@
+{
+  "name": "refactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codelabone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timothy-sserunjogi/refactory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timothy-sserunjogi/refactory/issues"
+  },
+  "homepage": "https://github.com/Timothy-sserunjogi/refactory#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
+}
