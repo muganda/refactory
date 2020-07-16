@@ -1,0 +1,25 @@
+{
+  "name": "refactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codelabone.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muganda/refactory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muganda/refactory/issues"
+  },
+  "homepage": "https://github.com/muganda/refactory#readme",
+  "dependencies": {
+    "coveralls": "^3.1.0",
+    "eslint": "^7.4.0",
+    "jest": "^26.1.0"
+  }
+}
