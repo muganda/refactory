@@ -1,7 +1,7 @@
 function computeGeometries(radius, array1, array2, array3) {
   let pi = 22 / 7;
   let area1 = pi * radius * radius;
-  let d = 2 * r;
+  //let d = 2 * r;
   let p1 = 2 * pi * radius;
   let a2 = array1[0] * array1[1];
   let p2 = 2 * array1[0] + 2 * array1[1];
@@ -19,3 +19,5 @@ function computeGeometries(radius, array1, array2, array3) {
 
 let areas = computeGeometries(2, [3, 4], [4, 5], [3, 7]);
 console.log(areas);
+
+module.exports = computeGeometries;
