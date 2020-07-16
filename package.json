@@ -1,0 +1,32 @@
+{
+  "name": "refactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codelabone.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugagga-kasajja/refactory.git"
+  },
+  "author": "Yusuf Mugagga Kasajja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mugagga-kasajja/refactory/issues"
+  },
+  "homepage": "https://github.com/mugagga-kasajja/refactory#readme"
+}
