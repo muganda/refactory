@@ -1,5 +1,5 @@
 const assert = require("chai").assert;
-const R = require("./computeGeometries");
+const R = require("../codelabone");
 
 describe("test for the correct area", function () {
   let computeGeometries = R;
