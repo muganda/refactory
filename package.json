@@ -1,0 +1,29 @@
+{
+  "name": "refactory",
+  "version": "1.0.0",
+  "main": "codelabone.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha || true",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muganda/refactory.git"
+  },
+  "author": "kevin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muganda/refactory/issues"
+  },
+  "homepage": "https://github.com/muganda/refactory#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
